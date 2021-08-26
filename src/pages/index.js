@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/tdd-intro/what-is-tdd"
           >
-            Try it out
+            Get Started
           </Link>
         </div>
       </div>
