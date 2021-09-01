@@ -5,13 +5,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "React Native TDD",
   tagline: "A guide to practicing TDD in React Native apps",
-  url: "https://react-native-tdd.com",
-  baseUrl: "/",
+  url: "https://louiszawadzki.github.io",
+  baseUrl: "/react-native-tdd/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "louiszawadzki", // Usually your GitHub org/user name.
   projectName: "react-native-tdd", // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: "Home",
