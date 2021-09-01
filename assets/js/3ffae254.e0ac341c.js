@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrn_tdd=self.webpackChunkrn_tdd||[]).push([[57],{2119:function(a){a.exports=JSON.parse('{"allTagsPath":"/react-native-tdd/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/react-native-tdd/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrn_tdd=self.webpackChunkrn_tdd||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/react-native-tdd/blog/welcome"},{"title":"Hello","permalink":"/react-native-tdd/blog/hello-world"},{"title":"Hola","permalink":"/react-native-tdd/blog/hola"}]}')}}]);

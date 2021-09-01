@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrn_tdd=self.webpackChunkrn_tdd||[]).push([[485],{3494:function(a){a.exports=JSON.parse('{"allTagsPath":"/react-native-tdd/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/react-native-tdd/blog/tags/facebook"}')}}]);
