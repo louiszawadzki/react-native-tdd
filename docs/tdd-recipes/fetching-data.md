@@ -6,8 +6,6 @@ sidebar_position: 2
 
 I recommend doing the design first and then getting the data from the API. This way you can concentrate on the design with less edge cases, and when you call your API you can make sure quickly that you are getting the right data.
 
-You already have already done the design part and you need to get the real data from an API.
-
 I'll do it first in a very simple way, assuming you reuse directly the data from your API.
 
 What do we want to test?
