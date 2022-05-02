@@ -36,7 +36,7 @@ If I do a refactoring that is already covered by my acceptance test, I can delet
 
 ## Useful links
 
-- https://outsidein.dev/outside-in-tdd.html
+- https://outsidein.dev/book/concepts/outside-in-tdd
 - https://khalilstemmler.com/articles/test-driven-development/use-case-tests-mocking/
 - https://kentcdodds.com/blog/write-tests/
 - http://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-1-style-made.html
